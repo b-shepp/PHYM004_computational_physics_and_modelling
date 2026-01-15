@@ -1,2 +1,0 @@
-p1x	p1y	p2x	p2y	v1x	v1y	v2x	v2y	Energy	Ang_mom	time
-1.0	1.0	-1.0	-1.0	0.0	0.0	0.0	0.0	0	0	0.0

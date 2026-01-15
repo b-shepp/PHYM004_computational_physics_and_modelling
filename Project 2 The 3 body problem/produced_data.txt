@@ -1,1 +1,0 @@
-px1	p1y	p2x	p2y	p3x	p3y	vx1	v1y	v2x	v2y	v3x	v3y	Energy	ang_mom
